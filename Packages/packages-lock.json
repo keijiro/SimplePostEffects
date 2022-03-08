@@ -62,15 +62,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "com.unity.visualeffectgraph": {
-      "version": "12.1.4",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.shadergraph": "12.1.4",
-        "com.unity.render-pipelines.core": "12.1.4"
-      }
-    },
     "jp.keijiro.danish-statues": {
       "version": "1.0.0",
       "depth": 0,
@@ -78,20 +69,19 @@
       "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
-    "jp.keijiro.noiseshader": {
-      "version": "2.0.0",
+    "jp.keijiro.klak.lineargradient": {
+      "version": "1.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
-    "jp.keijiro.shadergraphassets": {
-      "version": "1.0.10",
+    "jp.keijiro.metatex": {
+      "version": "1.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.shadergraph": "10.0.0",
-        "jp.keijiro.noiseshader": "2.0.0"
+        "jp.keijiro.klak.lineargradient": "1.0.2"
       },
       "url": "https://registry.npmjs.com"
     },
