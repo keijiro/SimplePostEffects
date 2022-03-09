@@ -7,7 +7,8 @@
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.universal": "12.1.4",
+    "com.unity.render-pipelines.universal": "12.1.5",
+    "com.unity.visualscripting": "1.7.7",
     "jp.keijiro.danish-statues": "1.0.0",
     "jp.keijiro.metatex": "1.0.1"
   }
