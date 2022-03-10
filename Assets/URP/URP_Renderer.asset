@@ -66,7 +66,7 @@ MonoBehaviour:
   m_Name: PostEffectFeature
   m_EditorClassIdentifier: 
   m_Active: 1
-  material: {fileID: 2100000, guid: fe6beea6000774dc38d707237426764a, type: 2}
+  material: {fileID: 2100000, guid: ca178a33ede844141a3f7c6467724622, type: 2}
 --- !u!114 &2369364758661625983
 MonoBehaviour:
   m_ObjectHideFlags: 0
