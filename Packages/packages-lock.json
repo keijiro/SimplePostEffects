@@ -87,7 +87,7 @@
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.metatex": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
