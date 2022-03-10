@@ -39,7 +39,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Radius: 1.1
+    - _Radius: 1
     - _Strength: 0
     m_Colors: []
   m_BuildTextureStacks: []
