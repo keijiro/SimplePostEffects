@@ -28,7 +28,7 @@ public sealed class PostEffectFeature : ScriptableRendererFeature
     public override void Create()
       => _pass = new PostEffectPass
            { material = material,
-             renderPassEvent = RenderPassEvent.AfterRenderingPostProcessing };
+             renderPassEvent = RenderPassEvent.AfterRendering };
 
     public override void AddRenderPasses
       (ScriptableRenderer renderer, ref RenderingData data)
