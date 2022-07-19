@@ -3,12 +3,14 @@
     {
       "name": "Keijiro",
       "url": "https://registry.npmjs.com",
-      "scopes": [ "jp.keijiro" ]
+      "scopes": [
+        "jp.keijiro"
+      ]
     }
   ],
   "dependencies": {
-    "com.unity.render-pipelines.universal": "12.1.6",
-    "com.unity.visualscripting": "1.7.7",
+    "com.unity.render-pipelines.universal": "12.1.7",
+    "com.unity.visualscripting": "1.7.8",
     "jp.keijiro.danish-statues": "1.0.0",
     "jp.keijiro.metatex": "1.0.2",
     "jp.keijiro.shadergraphassets": "2.4.0"
